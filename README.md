@@ -1,6 +1,6 @@
 # k-NN-Dogs-vs-Cats-problem
 
-
+Save train data at kaggle_dogs_vs_cats\train
 
 Install scikit-learn here: scikit-learn.org/stable/install.html
 
